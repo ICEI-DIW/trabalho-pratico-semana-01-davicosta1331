@@ -7,7 +7,7 @@ Nome:Davi Costa Cordeiro
 Matricula:885215
 
 ## Tela de inspeção com navegador
-![Primeiro Site](image.png)
+![Primeiro Site](Jovemnerd.jpg)
 
 ## Tela de projeto no Replit
-![Analise do Site](Jovemnerd.jpg)
+![Analise do Site](image.png)
